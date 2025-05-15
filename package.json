@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Riskified",
+        "label": "Riskified Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/riskified-dark.json"
+      },
+      {
+        "label": "Riskified Dark Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/riskified-dark-purple.json"
       }
     ]
   }
