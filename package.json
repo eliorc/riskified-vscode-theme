@@ -3,6 +3,7 @@
   "publisher": "eliorc",
   "displayName": "riskified-theme",
   "description": "Riskified Theme",
+  "icon": "assets/RSKD.png",
   "version": "1.0.0",
   "repository": {
     "type": "git",
