@@ -185,8 +185,6 @@
     "minimapSlider.activeBackground": "#080E3Faa",
     "minimapSlider.background": "#080E3F99",
     "minimapSlider.hoverBackground": "#080E3Faa",
-
-    /* `notification.*` keys are legacy support for VS Code versions >1.21.0 */
     "notification.background": "#283593",
     "notification.buttonBackground": "#080E3F",
     "notification.buttonForeground": "#E7EAEF",
@@ -976,7 +974,6 @@
       "scope": [
         "source.js meta.embedded.line meta.brace.square",
         "source.js meta.embedded.line meta.brace.round",
-        /* Required for extension `mgmcdermott.vscode-language-babel`. */
         "source.js string.quoted.template meta.brace.square",
         "source.js string.quoted.template meta.brace.round"
       ],

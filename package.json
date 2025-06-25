@@ -1,8 +1,9 @@
 {
-  "name": "riskified-vscode-theme",
-  "displayName": "riskified-vscode-theme",
-  "description": "Riskified VS Code Theme",
-  "version": "0.0.1",
+  "name": "riskified-theme",
+  "publisher": "eliorc",
+  "displayName": "riskified-theme",
+  "description": "Riskified Theme",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.98.0"
   },
