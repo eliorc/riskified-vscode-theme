@@ -75,10 +75,10 @@ This theme is an independent project created by a Riskified employee and is not 
 
 ## Feedback and Contributions
 
-Found a bug or have a suggestion? Please [open an issue](https://github.com/your-github-username/riskified-vscode-theme/issues) on GitHub. (Please replace with your actual repository URL)
+Found a bug or have a suggestion? Please [open an issue](https://github.com/your-github-username/riskified-vscode-theme/issues) on GitHub.
 
 Contributions are welcome! Fork the repository and submit a pull request.
 
 ## License
 
-This theme is released under the [MIT License](LICENSE). (You might want to add a `LICENSE` file to your project.)
+This theme is released under the [MIT License](LICENSE).
